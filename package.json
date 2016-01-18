@@ -1,0 +1,26 @@
+{
+  "name": "language-typescript",
+  "version": "8.1.0",
+  "description": "TypeScript grammars from atom-typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giladgray/language-typescript.git"
+  },
+  "keywords": [
+    "atom",
+    "language",
+    "typescript",
+    "tsx",
+    "grammar"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/giladgray/language-typescript/issues"
+  },
+  "homepage": "https://github.com/giladgray/language-typescript#readme"
+}
