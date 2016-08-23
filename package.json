@@ -1,6 +1,6 @@
 {
   "name": "language-typescript",
-  "version": "8.1.0",
+  "version": "10.1.6",
   "description": "TypeScript grammars from atom-typescript",
   "main": "index.js",
   "scripts": {
